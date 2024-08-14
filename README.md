@@ -1,3 +1,3 @@
 # Week 01
 
-Some Python practice
+Some Python syntax intro
